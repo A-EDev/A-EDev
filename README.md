@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CryptoDogNFT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=A-EDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -30,27 +30,27 @@ const profile = {
 <img alt="My Skills" src="https://skillicons.dev/icons?i=js,vite,react,java,python,vercel,netlify,tailwind,redis,html,css,php,arduino">
 </div>
 📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoDogNFT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoDogNFT&layout=compact&langs_count=8&theme=tokyonight"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-EDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-EDev&layout=compact&langs_count=8&theme=tokyonight"/> </p>
 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CryptoDogNFT&theme=radical&column=8" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=A-EDev&theme=radical&column=8" /> </p>
 
-<!--🎯 Featured Projects
+🎯 Featured Projects
 <div align="center">
 
-<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=zia-api&amp;theme=tokyonight">
-<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=project2&amp;theme=tokyonight">
+<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=A-EDev&amp;repo=OmniFlix&amp;theme=tokyonight">
+<!--<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=project2&amp;theme=tokyonight">-->
 </div>
-🤝 Connect with Me
-<div align="center">
+<!--🤝 Connect with Me
+<div align="center">-->
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+<!--<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139">
 </div>-->
 📈 Contribution Graph
 
-![snake gif](https://github.com/CryptoDogNFT/CryptoDogNFT/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/A-EDev/A-EDev/blob/output/github-snake-dark.svg)
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
 </div>
