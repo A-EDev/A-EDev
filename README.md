@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+[Your+Name];Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+[AE];Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -21,6 +21,7 @@ const profile = {
     learning: ["Cloud Architecture", "System Design", "AI/ML"],
     askMeAbout: ["Web Dev", "Tech", "Coffee", "Photography"]
 };
+
 </div>
 🛠️ Tech Arsenal
 <div align="center">
