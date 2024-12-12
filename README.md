@@ -49,10 +49,10 @@ const profile = {
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139">
 </div>
 📈 Contribution Graph
-Snake animation
+
+![snake gif](https://github.com/CryptoDogNFT/CryptoDogNFT/blob/output/github-snake-dark.svg)
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CryptoDogNFT&skills=JavaScript,TypeScript,Python,React&show-other-skills=true" alt="Skills Graph" />
 </div>
 
 <!-- Custom Footer -->
