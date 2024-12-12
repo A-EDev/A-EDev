@@ -40,14 +40,14 @@ const profile = {
 
 <img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=zia-api&amp;theme=tokyonight">
 <img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=project2&amp;theme=tokyonight">
-</div>-->
+</div>
 🤝 Connect with Me
 <div align="center">
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139">
-</div>
+</div>-->
 📈 Contribution Graph
 
 ![snake gif](https://github.com/CryptoDogNFT/CryptoDogNFT/blob/output/github-snake-dark.svg)
