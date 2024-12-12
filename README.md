@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=CryptoDogNFT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -11,33 +11,36 @@
 ### 🚀 About Me
 <div align="left">
 
-
+```javascript
 const profile = {
-    name: "[Your Name]",
-    location: "🌍 [Your Location]",
+    name: "[AE]",
+    location: "🌍 [Outer Space]",
     role: "Full Stack Developer",
     education: "BSc in Computer Science",
     workingOn: "Building innovative web solutions",
-    learning: ["Cloud Architecture", "System Design", "AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Coffee", "Photography"]
+    learning: ["C++", "Flutter","Firebase","Arduino","AI/ML"],
+    askMeAbout: ["Web Dev", "Tech", "Coffee", "Anime", "Movies", "Fitness"]
 };
+```
 
 </div>
 🛠️ Tech Arsenal
 <div align="center">
 
-<img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,aws,docker,mongodb,postgres,redis">
+<img alt="My Skills" src="https://skillicons.dev/icons?i=js,vite,react,java,python,vercel,netlify,tailwind,redis,html,css,php,arduino">
 </div>
 📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoDogNFT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoDogNFT&layout=compact&langs_count=8&theme=tokyonight"/> </p>
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7" /> </p>
-🎯 Featured Projects
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CryptoDogNFT&theme=radical&column=8" /> </p>
+
+<!--🎯 Featured Projects
 <div align="center">
 
-<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&amp;repo=project1&amp;theme=tokyonight">
-<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&amp;repo=project2&amp;theme=tokyonight">
-</div>
+<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=zia-api&amp;theme=tokyonight">
+<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoDogNFT&amp;repo=project2&amp;theme=tokyonight">
+</div>-->
 🤝 Connect with Me
 <div align="center">
 
@@ -49,7 +52,7 @@ const profile = {
 Snake animation
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YourUsername&skills=JavaScript,TypeScript,Python,React,Vue,Node.js&show-other-skills=true" alt="Skills Graph" />
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CryptoDogNFT&skills=JavaScript,TypeScript,Python,React&show-other-skills=true" alt="Skills Graph" />
 </div>
 
 <!-- Custom Footer -->
