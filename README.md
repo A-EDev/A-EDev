@@ -39,7 +39,6 @@ const profile = {
 <div align="center">
 
 <img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=A-EDev&amp;repo=OmniFlix&amp;theme=tokyonight">
-<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=A-EDEV&amp;repo=Quantum-Horizon&amp;theme=tokyonight">
 </div>
 <!--🤝 Connect with Me
 <div align="center">-->
