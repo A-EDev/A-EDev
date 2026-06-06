@@ -1,59 +1,33 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+[AE];Developer;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+# AE
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-EDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+I am a Computer Science student graduating in Summer 2026, with plans to pursue a Master's degree in Artificial Intelligence. My background is primarily in general software development and web technologies, and I learn new tools by building practical projects to solve problems I encounter.
+
+### Featured Work
+
+**[Flow](https://github.com/A-EDev/Flow)**
+An open-source YouTube and YouTube Music client for Android. This is my first major mobile application, built to explore mobile development and local data handling.
+* **Technologies:** Kotlin, Jetpack Compose.
+* **Details:** Includes a custom local recommendation engine (FlowNeuroEngine) and native SponsorBlock integration.
+
+### Technical Profile
+
+**Working Knowledge**
+Technologies I have used extensively in my coursework and personal web/software projects:
+* **Languages:** JavaScript, Java, PHP, HTML, CSS
+* **Frameworks & Tools:** React, Vite, Tailwind CSS
+* **Databases:** Redis (used for basic implementation in side projects)
+
+**Currently Learning & Exploring**
+Areas I am actively studying, tinkering with, or planning to specialize in:
+* **Core Focus:** Artificial Intelligence and Machine Learning
+* **Software & Mobile:** C++, Kotlin, Flutter, Python
+* **Hardware:** Arduino
+
+### Connect
+
+* **Project Community:** [r/Flow_Official](https://www.reddit.com/r/Flow_Official/)
+* **Support my open-source work:** [Patreon](https://www.patreon.com/A_EDev)
 
 ---
 
-### 🚀 About Me
-<div align="left">
-
-```javascript
-const profile = {
-    name: "[AE]",
-    location: "🌍 [Outer Space]",
-    role: "Developer",
-    education: "BSc in Computer Science",
-    workingOn: "Building stuff that solves issues that i am facing on the internet",
-    learning: ["C++", "Flutter","Kotlin","Arduino","AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Coffee", "Movies", "Fitness"]
-};
-```
-
-</div>
-🛠️ Tech Arsenal
-<div align="center">
-
-<img alt="My Skills" src="https://skillicons.dev/icons?i=js,vite,react,java,python,vercel,netlify,tailwind,redis,html,css,php,arduino">
-</div>
-📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-EDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-EDev&layout=compact&langs_count=8&theme=tokyonight"/> </p>
-🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=A-EDev&theme=radical&column=8" /> </p>
-
-🎯 Featured Projects
-<div align="center">
-
-<img alt="Project Card" src="https://github-readme-stats.vercel.app/api/pin/?username=A-EDev&amp;repo=Flow&amp;theme=tokyonight">
-
-</div>
-<!--🤝 Connect with Me
-<div align="center">-->
-
-<!--<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white">
-<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139">
-</div>-->
-📈 Contribution Graph
-
-![snake gif](https://github.com/A-EDev/A-EDev/blob/output/github-snake-dark.svg)
-
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
-</div>
-
-<!-- Custom Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"> 
+![GitHub Contribution Graph](https://github.com/A-EDev/A-EDev/blob/output/github-snake-dark.svg)
