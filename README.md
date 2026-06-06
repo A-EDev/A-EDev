@@ -9,6 +9,16 @@ An open-source YouTube and YouTube Music client for Android. This is my first ma
 * **Technologies:** Kotlin, Jetpack Compose.
 * **Details:** Includes a custom local recommendation engine (FlowNeuroEngine) and native SponsorBlock integration.
 
+**Intelligent FAQ Assistant** *(Freelance / Private)*
+A semantic search chatbot designed to automate customer support for business environments. 
+* **Technologies:** Python, SBERT (all-MiniLM-L6-v2).
+* **Details:** Built to run entirely locally on a standard CPU. It uses natural language processing to understand context rather than relying on exact keyword matches, allowing it to handle typos, slang, and varying sentence structures across multiple domains (HR, Support, Admissions).
+
+### Freelance & Tinkering
+
+* **Freelance Web Development:** Built a custom e-commerce platform for a clothing brand using React. As well as some finance and media apps.
+* **The Private Graveyard:** A large part of my learning comes from incomplete projects that never saw the light of day, including movie/anime streaming sites, a Mihon-style app, a fitness tracker, and a local device-to-device file sharing tool.
+  
 ### Technical Profile
 
 **Working Knowledge**
