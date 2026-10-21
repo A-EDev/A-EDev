@@ -1,10 +1,12 @@
-# AE
+<div align="center">
+<a href="https://trendshift.io/developers/13045?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-13045" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/13045" alt="A-EDev | Trendshift" width="250" height="55"/></a>
+</div>
 
-I am a Computer Science student graduating in Summer 2026, with plans to pursue a Master's degree in Artificial Intelligence. My background is primarily in general software development and web technologies, and I learn new tools by building practical projects to solve problems I encounter.
+I am a Computer Science student graduated in Summer 2026, with plans to pursue a Master's degree in Artificial Intelligence. My background is primarily in general software development and web technologies, and I learn new tools by building practical projects to solve problems I encounter.
 
 ### Featured Work
 
-**[Flow](https://github.com/A-EDev/Flow)**
+**[Flow](https://github.com/Flow-Tube/Flow)**
 An open-source YouTube and YouTube Music client for Android. This is my first major mobile application, built to explore mobile development and local data handling.
 * **Technologies:** Kotlin, Jetpack Compose.
 * **Details:** Includes a custom local recommendation engine (FlowNeuroEngine) and native SponsorBlock integration.
@@ -36,7 +38,11 @@ Areas I am actively studying, tinkering with, or planning to specialize in:
 ### Connect
 
 * **Project Community:** [r/Flow_Official](https://www.reddit.com/r/Flow_Official/)
-* **Support my open-source work:** [Patreon](https://www.patreon.com/A_EDev)
+* **Support my open-source work:**
+
+<a href="https://opencollective.com/flow-tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/support-opencollective-dark.svg"><img alt="Support Flow on Open Collective" src="https://assets.flow-tube.org/v1/badges/pill/support-opencollective-light.svg" height="60"></picture></a>
+<a href="https://patreon.com/A_EDev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/support-patreon-tonal-dark.svg"><img alt="Support Flow on Patreon" src="https://assets.flow-tube.org/v1/badges/pill/support-patreon-tonal-light.svg" height="60"></picture></a>
+
 
 ---
 
